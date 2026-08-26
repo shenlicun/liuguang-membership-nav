@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shenlicun.github.io/liuguang-membership-nav/sitemap.xml
